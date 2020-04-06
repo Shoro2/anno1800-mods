@@ -1,0 +1,6 @@
+<ModOps>
+  <!-- Airship-->
+  <ModOp Type="merge" GUID='114166' Path="/Values/Walking">
+    <ForwardSpeed>48</ForwardSpeed>
+  </ModOp>
+</ModOps>

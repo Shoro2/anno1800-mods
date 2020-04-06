@@ -1,0 +1,34 @@
+<ModOps>
+  <!-- Lumberjack's Hut-->
+  <ModOp Type="merge" GUID='1010266' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <Amount>5</Amount>
+  </ModOp>
+  <!-- Charcoal Kiln-->
+  <ModOp Type="merge" GUID='1010298' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <Amount>5</Amount>
+  </ModOp>
+  <!-- Hunting Cabin-->
+  <ModOp Type="merge" GUID='1010558' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <Amount>5</Amount>
+  </ModOp>
+  <!-- Lumberjack's Hut (Arctic)-->
+  <ModOp Type="merge" GUID='114703' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <Amount>5</Amount>
+  </ModOp>
+  <!-- Charcoal Kiln (Arctic)-->
+  <ModOp Type="merge" GUID='114705' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <Amount>5</Amount>
+  </ModOp>
+  <!-- Caribou Hunting Cabin (Arctic)-->
+  <ModOp Type="merge" GUID='112667' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <Amount>5</Amount>
+  </ModOp>
+  <!-- Bear Hunting Cabin (Arctic)-->
+  <ModOp Type="merge" GUID='112673' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <Amount>5</Amount>
+  </ModOp>
+  <!-- Prime Hunting Cabin (Arctic)-->
+  <ModOp Type="merge" GUID='116034' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <Amount>5</Amount>
+  </ModOp>
+</ModOps>

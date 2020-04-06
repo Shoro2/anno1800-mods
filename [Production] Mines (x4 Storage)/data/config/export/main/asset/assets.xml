@@ -1,0 +1,54 @@
+<ModOps>
+  <!-- Coal Mine-->
+  <ModOp Type="merge" GUID='1010304' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <StorageAmount>32</StorageAmount>
+  </ModOp>
+  <!-- Iron Mine-->
+  <ModOp Type="merge" GUID='1010305' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <StorageAmount>32</StorageAmount>
+  </ModOp>
+  <!-- Clay Pit-->
+  <ModOp Type="merge" GUID='100416' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <StorageAmount>16</StorageAmount>
+  </ModOp>
+  <!-- Cement/Limestone Mine-->
+  <ModOp Type="merge" GUID='1010309' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <StorageAmount>16</StorageAmount>
+  </ModOp>
+  <!-- Sand Mine-->
+  <ModOp Type="merge" GUID='1010560' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <StorageAmount>16</StorageAmount>
+  </ModOp>
+  <!-- Saltpeter Works-->
+  <ModOp Type="merge" GUID='1010310' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <StorageAmount>16</StorageAmount>
+  </ModOp>
+  <!-- Copper Mine-->
+  <ModOp Type="merge" GUID='1010308' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <StorageAmount>16</StorageAmount>
+  </ModOp>
+  <!-- Zinc Mine-->
+  <ModOp Type="merge" GUID='1010307' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <StorageAmount>16</StorageAmount>
+  </ModOp>
+  <!-- Gold Ore Mine-->
+  <ModOp Type="merge" GUID='1010311' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <StorageAmount>16</StorageAmount>
+  </ModOp>
+  <!-- Deep Gold Mine-->
+  <ModOp Type="merge" GUID='116029' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <StorageAmount>16</StorageAmount>
+  </ModOp>
+  <!-- Deep Iron Mine-->
+  <ModOp Type="merge" GUID='8857200' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <StorageAmount>16</StorageAmount>
+  </ModOp>
+  <!-- Deep Zinc Mine-->
+  <ModOp Type="merge" GUID='8857203' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <StorageAmount>16</StorageAmount>
+  </ModOp>
+  <!-- Deep Copper Mine-->
+  <ModOp Type="merge" GUID='8857204' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <StorageAmount>16</StorageAmount>
+  </ModOp>
+</ModOps>

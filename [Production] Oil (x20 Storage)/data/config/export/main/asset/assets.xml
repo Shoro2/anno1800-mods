@@ -1,0 +1,6 @@
+<ModOps>
+  <!-- Oil Refinery-->
+  <ModOp Type="merge" GUID='101331' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <StorageAmount>4000</StorageAmount>
+  </ModOp>
+</ModOps>

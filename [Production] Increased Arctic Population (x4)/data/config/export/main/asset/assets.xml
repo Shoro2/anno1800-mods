@@ -1,0 +1,102 @@
+<ModOps>
+  <!-- Explorer Shelter-->
+  <ModOp Type="merge" GUID='112091' Path="/Values/Residence7">
+    <ResidentMax>40</ResidentMax>
+  </ModOp>
+  <ModOp Type="merge" GUID='112642' Path="/Values/PopulationLevel7/PopulationInputs">
+    <!-- Canteen-->
+    <Item>
+      <Product>114890</Product>
+      <SupplyWeight>16</SupplyWeight>
+    </Item>
+    <!-- Pemmican-->
+    <Item>
+      <Product>112705</Product>
+      <SupplyWeight>12</SupplyWeight>
+    </Item>
+    <!-- Oil Lamps-->
+    <Item>
+      <Product>112702</Product>
+      <SupplyWeight>12</SupplyWeight>
+    </Item>
+    <!-- Heat-->
+    <Item>
+      <Product>112708</Product>
+    </Item>
+    <!-- Sleeping Bags-->
+    <Item>
+      <Product>112701</Product>
+    </Item>
+    <!-- Schnapps-->
+    <Item>
+      <Product>1010216</Product>
+    </Item>
+  </ModOp>
+  <!-- Technician Shelter-->
+  <ModOp Type="merge" GUID='112652' Path="/Values/Residence7">
+    <ResidentMax>80</ResidentMax>
+  </ModOp>
+  <ModOp Type="merge" GUID='112643' Path="/Values/PopulationLevel7/PopulationInputs">
+    <!-- Canteen-->
+    <Item>
+      <Product>114890</Product>
+      <SupplyWeight>16</SupplyWeight>
+    </Item>
+    <!-- Pemmican-->
+    <Item>
+      <Product>112705</Product>
+      <SupplyWeight>12</SupplyWeight>
+    </Item>
+    <!-- Oil Lamps-->
+    <Item>
+      <Product>112702</Product>
+      <SupplyWeight>12</SupplyWeight>
+    </Item>
+    <!-- Post Office-->
+    <Item>
+      <Product>112693</Product>
+      <SupplyWeight>12</SupplyWeight>
+    </Item>
+    <!-- Canned Food-->
+    <Item>
+      <Product>1010217</Product>
+      <SupplyWeight>12</SupplyWeight>
+    </Item>
+    <!-- Husky Sleds-->
+    <Item>
+      <Product>112703</Product>
+      <SupplyWeight>16</SupplyWeight>
+    </Item>
+    <!-- Heat-->
+    <Item>
+      <Product>112708</Product>
+    </Item>
+    <!-- Sleeping Bags-->
+    <Item>
+      <Product>112701</Product>
+    </Item>
+    <!-- Schnapps-->
+    <Item>
+      <Product>1010216</Product>
+    </Item>
+    <!-- Parkas-->
+    <Item>
+      <Product>112700</Product>
+    </Item>
+    <!-- Coffee-->
+    <Item>
+      <Product>120032</Product>
+    </Item>
+  </ModOp>
+  <!-- Move In Rate-->
+  <!-- Explorers-->
+  <ModOp Type="merge" GUID='112642' Path="/Values/PopulationLevel7/MoveInOut">
+    <MoveInInterval>8</MoveInInterval>
+    <MoveOutInterval>30</MoveOutInterval>
+  </ModOp>
+  <!-- Technicians-->
+  <ModOp Type="merge" GUID='112643' Path="/Values/PopulationLevel7/MoveInOut">
+    <MoveInInterval>8</MoveInInterval>
+    <MoveOutInterval>30</MoveOutInterval>
+  </ModOp>
+</ModOps>

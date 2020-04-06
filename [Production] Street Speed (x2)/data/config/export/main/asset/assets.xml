@@ -1,0 +1,21 @@
+<ModOps>
+  <!-- Dirt Street-->
+  <ModOp Type="merge" GUID='1000178' Path="/Values/Street">
+    <Quality>2</Quality>
+  </ModOp>
+  <ModOp Type="add" GUID='1000178' Path="/Values/Street">
+    <SpeedFactor>2</SpeedFactor>
+  </ModOp>
+  <!-- Stone Street-->
+  <ModOp Type="merge" GUID='1010035' Path="/Values/Street">
+    <Quality>4</Quality>
+    <SpeedFactor>4</SpeedFactor>
+  </ModOp>
+  <!-- Snow Street-->
+  <ModOp Type="merge" GUID='112113' Path="/Values/Street">
+    <Quality>4</Quality>
+  </ModOp>
+  <ModOp Type="add" GUID='112113' Path="/Values/Street">
+    <SpeedFactor>4</SpeedFactor>
+  </ModOp>
+</ModOps>

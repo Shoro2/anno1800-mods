@@ -1,0 +1,98 @@
+<ModOps>
+  <!-- Warehouse I-->
+  <ModOp Type="add" GUID='1010371' Path="/Values">
+    <LogisticNode>
+      <QueueConfiguration>
+        <ProcessingQueueParallelCount>4</ProcessingQueueParallelCount>
+      </QueueConfiguration>
+    </LogisticNode>
+  </ModOp>
+  <!-- Warehouse II-->
+  <ModOp Type="merge" GUID='100516' Path="/Values/LogisticNode/QueueConfiguration">
+    <ProcessingQueueParallelCount>6</ProcessingQueueParallelCount>
+  </ModOp>
+  <!-- Warehouse III-->
+  <ModOp Type="merge" GUID='100517' Path="/Values/LogisticNode/QueueConfiguration">
+    <ProcessingQueueParallelCount>8</ProcessingQueueParallelCount>
+  </ModOp>
+  <!-- Warehouse I (New World)-->
+  <ModOp Type="add" GUID='101323' Path="/Values">
+    <LogisticNode>
+      <QueueConfiguration>
+        <ProcessingQueueParallelCount>4</ProcessingQueueParallelCount>
+      </QueueConfiguration>
+    </LogisticNode>
+  </ModOp>
+  <!-- Warehouse II (New World)-->
+  <ModOp Type="add" GUID='101324' Path="/Values">
+    <LogisticNode>
+      <QueueConfiguration>
+        <ProcessingQueueParallelCount>8</ProcessingQueueParallelCount>
+      </QueueConfiguration>
+    </LogisticNode>
+  </ModOp>
+  <!-- Small Trading Post-->
+  <ModOp Type="add" GUID='1010517' Path="/Values">
+    <LogisticNode>
+      <QueueConfiguration>
+        <ProcessingQueueParallelCount>6</ProcessingQueueParallelCount>
+      </QueueConfiguration>
+    </LogisticNode>
+  </ModOp>
+  <!-- Medium Trading Post-->
+  <ModOp Type="merge" GUID='100510' Path="/Values/LogisticNode/QueueConfiguration">
+    <ProcessingQueueParallelCount>8</ProcessingQueueParallelCount>
+  </ModOp>
+  <!-- Large Trading Post-->
+  <ModOp Type="merge" GUID='100511' Path="/Values/LogisticNode/QueueConfiguration">
+    <ProcessingQueueParallelCount>10</ProcessingQueueParallelCount>
+  </ModOp>
+  <!-- Warehouse I (Arctic)-->
+  <ModOp Type="add" GUID='112656' Path="/Values">
+    <LogisticNode>
+      <QueueConfiguration>
+        <ProcessingQueueParallelCount>4</ProcessingQueueParallelCount>
+      </QueueConfiguration>
+    </LogisticNode>
+  </ModOp>
+  <!-- Warehouse II (Arctic)-->
+  <ModOp Type="add" GUID='112657' Path="/Values">
+    <LogisticNode>
+      <QueueConfiguration>
+        <ProcessingQueueParallelCount>6</ProcessingQueueParallelCount>
+      </QueueConfiguration>
+    </LogisticNode>
+  </ModOp>
+  <!-- Warehouse III (Arctic)-->
+  <ModOp Type="add" GUID='112658' Path="/Values">
+    <LogisticNode>
+      <QueueConfiguration>
+        <ProcessingQueueParallelCount>8</ProcessingQueueParallelCount>
+      </QueueConfiguration>
+    </LogisticNode>
+  </ModOp>
+  <!-- Sky Trading Post I-->
+  <ModOp Type="add" GUID='112726' Path="/Values">
+    <LogisticNode>
+      <QueueConfiguration>
+        <ProcessingQueueParallelCount>8</ProcessingQueueParallelCount>
+      </QueueConfiguration>
+    </LogisticNode>
+  </ModOp>
+  <!-- Sky Trading Post II-->
+  <ModOp Type="add" GUID='116003' Path="/Values">
+    <LogisticNode>
+      <QueueConfiguration>
+        <ProcessingQueueParallelCount>10</ProcessingQueueParallelCount>
+      </QueueConfiguration>
+    </LogisticNode>
+  </ModOp>
+  <!-- Sky Trading Post III-->
+  <ModOp Type="add" GUID='100511' Path="/Values">
+    <LogisticNode>
+      <QueueConfiguration>
+        <ProcessingQueueParallelCount>12</ProcessingQueueParallelCount>
+      </QueueConfiguration>
+    </LogisticNode>
+  </ModOp>
+</ModOps>

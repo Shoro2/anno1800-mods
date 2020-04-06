@@ -1,0 +1,15 @@
+<ModOps>
+    <!-- Gas Power Plant -->
+  <ModOp Type="merge" GUID='117547' Path="/Values/Powerplant/ElectricityDistance">
+    <ElectricityDistance>5000</ElectricityDistance>
+  </ModOp>
+  <ModOp Type="merge" GUID='117547' Path="/Values/FactoryBase/FactoryInputs/Item/StorageAmount">
+    <StorageAmount>100</StorageAmount>
+  </ModOp>
+  <ModOp Type="merge" GUID='117547' Path="/Values/PublicService">
+    <FullSatisfactionDistance>5000</FullSatisfactionDistance>
+  </ModOp>
+  <ModOp Type="merge" GUID='117547' Path="/Values/PublicService">
+    <NoSatisfactionDistance>5000</NoSatisfactionDistance>
+  </ModOp>  
+</ModOps>

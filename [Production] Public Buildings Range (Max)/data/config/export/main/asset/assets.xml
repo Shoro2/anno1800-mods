@@ -1,0 +1,70 @@
+<ModOps>
+<!-- Old World-->
+  <!-- Marketplace-->
+  <ModOp Type="merge" GUID="1010372" Path="/Values/PublicService">
+    <FullSatisfactionDistance>500</FullSatisfactionDistance>
+    <NoSatisfactionDistance>750</NoSatisfactionDistance>
+  </ModOp>
+  <!-- Pub-->
+  <ModOp Type="merge" GUID="1010358" Path="/Values/PublicService">
+    <FullSatisfactionDistance>500</FullSatisfactionDistance>
+    <NoSatisfactionDistance>750</NoSatisfactionDistance>
+  </ModOp>
+  <!-- School-->
+  <ModOp Type="merge" GUID="1010360" Path="/Values/PublicService">
+    <FullSatisfactionDistance>500</FullSatisfactionDistance>
+    <NoSatisfactionDistance>750</NoSatisfactionDistance>
+  </ModOp>
+  <!-- Bank-->
+  <ModOp Type="merge" GUID="1010365" Path="/Values/PublicService">
+    <FullSatisfactionDistance>500</FullSatisfactionDistance>
+    <NoSatisfactionDistance>750</NoSatisfactionDistance>
+  </ModOp>
+  <!-- Church-->
+  <ModOp Type="merge" GUID="1010359" Path="/Values/PublicService">
+    <FullSatisfactionDistance>500</FullSatisfactionDistance>
+    <NoSatisfactionDistance>750</NoSatisfactionDistance>
+  </ModOp>
+  <!-- Variety Theatre-->
+  <ModOp Type="merge" GUID="1010361" Path="/Values/PublicService">
+    <FullSatisfactionDistance>500</FullSatisfactionDistance>
+    <NoSatisfactionDistance>750</NoSatisfactionDistance>
+  </ModOp>
+  <!-- University-->
+  <ModOp Type="merge" GUID="1010362" Path="/Values/PublicService">
+    <FullSatisfactionDistance>500</FullSatisfactionDistance>
+    <NoSatisfactionDistance>750</NoSatisfactionDistance>
+  </ModOp>
+  <!-- Members Club-->
+  <ModOp Type="merge" GUID="1010364" Path="/Values/PublicService">
+    <FullSatisfactionDistance>500</FullSatisfactionDistance>
+    <NoSatisfactionDistance>750</NoSatisfactionDistance>
+  </ModOp>
+<!-- New World-->
+  <!-- Marketplace-->
+  <ModOp Type="merge" GUID="101257" Path="/Values/PublicService">
+    <FullSatisfactionDistance>500</FullSatisfactionDistance>
+    <NoSatisfactionDistance>750</NoSatisfactionDistance>
+  </ModOp>
+  <!-- Chapel-->
+  <ModOp Type="merge" GUID="101258" Path="/Values/PublicService">
+    <FullSatisfactionDistance>500</FullSatisfactionDistance>
+    <NoSatisfactionDistance>750</NoSatisfactionDistance>
+  </ModOp>
+  <!-- Boxing Arena-->
+  <ModOp Type="add" GUID="101259" Path="/Values/PublicService">
+    <FullSatisfactionDistance>500</FullSatisfactionDistance>
+    <NoSatisfactionDistance>750</NoSatisfactionDistance>
+  </ModOp>
+<!-- Arctic-->
+  <!-- Canteen-->
+  <ModOp Type="merge" GUID="114889" Path="/Values/PublicService">
+    <FullSatisfactionDistance>200</FullSatisfactionDistance>
+    <NoSatisfactionDistance>400</NoSatisfactionDistance>
+  </ModOp>
+  <!-- Post Office-->
+  <ModOp Type="merge" GUID="112684" Path="/Values/PublicService">
+    <FullSatisfactionDistance>250</FullSatisfactionDistance>
+    <NoSatisfactionDistance>500</NoSatisfactionDistance>
+  </ModOp>
+</ModOps>

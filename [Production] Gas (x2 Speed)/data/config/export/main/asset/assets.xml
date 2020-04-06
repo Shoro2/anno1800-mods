@@ -1,0 +1,6 @@
+<ModOps>
+  <!-- Gas Mine-->
+  <ModOp Type="merge" GUID='112690' Path="/Values/FactoryBase">
+    <CycleTime>135</CycleTime>
+  </ModOp>
+</ModOps>

@@ -1,0 +1,42 @@
+<ModOps>
+  <!-- Sawmill-->
+  <ModOp Type="merge" GUID='100451' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <StorageAmount>32</StorageAmount>
+  </ModOp>
+  <!-- Brick Factory-->
+  <ModOp Type="merge" GUID='1010283' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <StorageAmount>16</StorageAmount>
+  </ModOp>
+  <!-- Sailmakers-->
+  <ModOp Type="merge" GUID='1010288' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <StorageAmount>16</StorageAmount>
+  </ModOp>
+  <!-- Steelworks-->
+  <ModOp Type="merge" GUID='1010296' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <StorageAmount>16</StorageAmount>
+  </ModOp>
+  <!-- Weapon Factory-->
+  <ModOp Type="merge" GUID='1010299' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <StorageAmount>16</StorageAmount>
+  </ModOp>
+  <!-- Window Factory-->
+  <ModOp Type="merge" GUID='1010285' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <StorageAmount>16</StorageAmount>
+  </ModOp>
+  <!-- Concrete Factory-->
+  <ModOp Type="merge" GUID='1010280' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <StorageAmount>16</StorageAmount>
+  </ModOp>
+  <!-- Motor Assembly Line-->
+  <ModOp Type="merge" GUID='1010302' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <StorageAmount>16</StorageAmount>
+  </ModOp>
+  <!-- Heavy Weapons Factory-->
+  <ModOp Type="merge" GUID='1010301' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <StorageAmount>16</StorageAmount>
+  </ModOp>
+  <!-- Sawmill (Arctic)-->
+  <ModOp Type="merge" GUID='114704' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <StorageAmount>32</StorageAmount>
+  </ModOp>
+</ModOps>

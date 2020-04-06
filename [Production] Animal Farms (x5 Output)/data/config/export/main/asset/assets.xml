@@ -1,0 +1,50 @@
+<ModOps>
+  <!-- Fishery-->
+  <ModOp Type="merge" GUID='1010278' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <Amount>5</Amount>
+  </ModOp>
+  <!-- Sheep Farm-->
+  <ModOp Type="merge" GUID='1010267' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <Amount>5</Amount>
+  </ModOp>
+  <!-- Pig Farm-->
+  <ModOp Type="merge" GUID='1010269' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <Amount>5</Amount>
+  </ModOp>
+  <!-- Cattle Farm-->
+  <ModOp Type="merge" GUID='1010263' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <Amount>5</Amount>
+  </ModOp>
+  <!-- Alpaca Farm-->
+  <ModOp Type="merge" GUID='101272' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <Amount>5</Amount>
+  </ModOp>
+  <!-- Cattle Farm (New World)-->
+  <ModOp Type="add" GUID='101269' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <Amount>5</Amount>
+  </ModOp>
+  <!-- Fish Oil Factory-->
+  <ModOp Type="merge" GUID='101262' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <Amount>5</Amount>
+  </ModOp>
+  <!-- Pearl Farm-->
+  <ModOp Type="merge" GUID='1010339' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <Amount>5</Amount>
+  </ModOp>
+  <!-- Whaling Station (Arctic)-->
+  <ModOp Type="merge" GUID='112666' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <Amount>5</Amount>
+  </ModOp>
+  <!-- Seal Hunting Docks (Arctic)-->
+  <ModOp Type="merge" GUID='112674' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <Amount>5</Amount>
+  </ModOp>
+  <!-- Goose Farm (Arctic)-->
+  <ModOp Type="merge" GUID='112676' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <Amount>5</Amount>
+  </ModOp>
+  <!-- Husky Farm (Arctic)-->
+  <ModOp Type="merge" GUID='112682' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <Amount>5</Amount>
+  </ModOp>
+</ModOps>

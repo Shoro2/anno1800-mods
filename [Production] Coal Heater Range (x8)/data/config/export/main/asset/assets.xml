@@ -1,0 +1,6 @@
+<ModOps>
+  <!-- Coal Heater -->
+  <ModOp Type="add" GUID='114751' Path="/Values/HeatProvider">
+    <HeatRange>108</HeatRange>
+  </ModOp>
+</ModOps>

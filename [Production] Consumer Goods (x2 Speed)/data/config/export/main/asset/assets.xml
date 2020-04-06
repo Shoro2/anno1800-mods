@@ -1,0 +1,125 @@
+<ModOps>
+  <!-- Old World-->
+  <!-- Framework Knitters-->
+  <ModOp Type="add" GUID='1010315' Path="/Values/FactoryBase">
+    <CycleTime>15</CycleTime>
+  </ModOp>
+  <!-- Schnapps Distillery-->
+  <ModOp Type="add" GUID='1010294' Path="/Values/FactoryBase">
+    <CycleTime>15</CycleTime>
+  </ModOp>
+  <!-- Slaughterhouse-->
+  <ModOp Type="merge" GUID='1010316' Path="/Values/FactoryBase">
+    <CycleTime>30</CycleTime>
+  </ModOp>
+  <!-- Bakery-->
+  <ModOp Type="merge" GUID='1010291' Path="/Values/FactoryBase">
+    <CycleTime>30</CycleTime>
+  </ModOp>
+  <!-- Soap Factory-->
+  <ModOp Type="add" GUID='1010281' Path="/Values/FactoryBase">
+    <CycleTime>15</CycleTime>
+  </ModOp>
+  <!-- Brewery-->
+  <ModOp Type="merge" GUID='1010292' Path="/Values/FactoryBase">
+    <CycleTime>30</CycleTime>
+  </ModOp>
+  <!-- Cannery-->
+  <ModOp Type="merge" GUID='1010295' Path="/Values/FactoryBase">
+    <CycleTime>30</CycleTime>
+  </ModOp>
+  <!-- Sewing Machine Factory-->
+  <ModOp Type="add" GUID='1010284' Path="/Values/FactoryBase">
+    <CycleTime>15</CycleTime>
+  </ModOp>
+  <!-- Fur Dealer-->
+  <ModOp Type="add" GUID='1010325' Path="/Values/FactoryBase">
+    <CycleTime>15</CycleTime>
+  </ModOp>
+  <!-- Spectacle Factory-->
+  <ModOp Type="merge" GUID='101250' Path="/Values/FactoryBase">
+    <CycleTime>30</CycleTime>
+  </ModOp>
+  <!-- Bicycle Factory-->
+  <ModOp Type="add" GUID='1010323' Path="/Values/FactoryBase">
+    <CycleTime>15</CycleTime>
+  </ModOp>
+  <!-- Clockmakers-->
+  <ModOp Type="merge" GUID='1010324' Path="/Values/FactoryBase">
+    <CycleTime>30</CycleTime>
+  </ModOp>
+  <!-- Light Bulb Factory-->
+  <ModOp Type="merge" GUID='1010286' Path="/Values/FactoryBase">
+    <CycleTime>30</CycleTime>
+  </ModOp>
+  <!-- Champagne Cellar-->
+  <ModOp Type="add" GUID='100659' Path="/Values/FactoryBase">
+    <CycleTime>15</CycleTime>
+  </ModOp>
+  <!-- Jewellers-->
+  <ModOp Type="add" GUID='1010328' Path="/Values/FactoryBase">
+    <CycleTime>15</CycleTime>
+  </ModOp>
+  <!-- Gramophone Factory-->
+  <ModOp Type="merge" GUID='1010326' Path="/Values/FactoryBase">
+    <CycleTime>60</CycleTime>
+  </ModOp>
+  <!-- Cab Assembly Line-->
+  <ModOp Type="merge" GUID='1010303' Path="/Values/FactoryBase">
+    <CycleTime>30</CycleTime>
+  </ModOp>
+  <!-- New World-->
+  <!-- Fried Plantain Kitchen-->
+  <ModOp Type="add" GUID='101264' Path="/Values/FactoryBase">
+    <CycleTime>15</CycleTime>
+  </ModOp>
+  <!-- Poncho Darner-->
+  <ModOp Type="add" GUID='101266' Path="/Values/FactoryBase">
+    <CycleTime>15</CycleTime>
+  </ModOp>
+  <!-- Rum Distillery-->
+  <ModOp Type="add" GUID='1010340' Path="/Values/FactoryBase">
+    <CycleTime>15</CycleTime>
+  </ModOp>
+  <!-- Tortilla Maker-->
+  <ModOp Type="add" GUID='101271' Path="/Values/FactoryBase">
+    <CycleTime>15</CycleTime>
+  </ModOp>
+  <!-- Coffee Roaster-->
+  <ModOp Type="add" GUID='101252' Path="/Values/FactoryBase">
+    <CycleTime>15</CycleTime>
+  </ModOp>
+  <!-- Bombin Weaver-->
+  <ModOp Type="add" GUID='101273' Path="/Values/FactoryBase">
+    <CycleTime>15</CycleTime>
+  </ModOp>
+  <!-- Cigar Factory-->
+  <ModOp Type="add" GUID='1010342' Path="/Values/FactoryBase">
+    <CycleTime>15</CycleTime>
+  </ModOp>
+  <!-- Chocolate Factory-->
+  <ModOp Type="add" GUID='1010341' Path="/Values/FactoryBase">
+    <CycleTime>15</CycleTime>
+  </ModOp>
+  <!-- Arctic-->
+  <!-- Pemmican Cookhouse-->
+  <ModOp Type="merge" GUID='112668' Path="/Values/FactoryBase">
+    <CycleTime>30</CycleTime>
+  </ModOp>
+  <!-- Sleeping Bag Factory-->
+  <ModOp Type="merge" GUID='112675' Path="/Values/FactoryBase">
+    <CycleTime>30</CycleTime>
+  </ModOp>
+  <!-- Oil Lamp Factory-->
+  <ModOp Type="merge" GUID='112679' Path="/Values/FactoryBase">
+    <CycleTime>30</CycleTime>
+  </ModOp>
+  <!-- Parka Factory-->
+  <ModOp Type="merge" GUID='112672' Path="/Values/FactoryBase">
+    <CycleTime>35</CycleTime>
+  </ModOp>
+  <!-- Husky Sled Factory-->
+  <ModOp Type="merge" GUID='112680' Path="/Values/FactoryBase">
+    <CycleTime>30</CycleTime>
+  </ModOp>
+</ModOps>

@@ -1,0 +1,125 @@
+<ModOps>
+<!-- Old World-->
+  <!-- Framework Knitters-->
+  <ModOp Type="merge" GUID='1010315' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <Amount>5</Amount>
+  </ModOp>
+  <!-- Schnapps Distillery-->
+  <ModOp Type="merge" GUID='1010294' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <Amount>5</Amount>
+  </ModOp>
+  <!-- Slaughterhouse-->
+  <ModOp Type="merge" GUID='1010316' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <Amount>5</Amount>
+  </ModOp>
+  <!-- Bakery-->
+  <ModOp Type="merge" GUID='1010291' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <Amount>5</Amount>
+  </ModOp>
+  <!-- Soap Factory-->
+  <ModOp Type="merge" GUID='1010281' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <Amount>5</Amount>
+  </ModOp>
+  <!-- Brewery-->
+  <ModOp Type="merge" GUID='1010292' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <Amount>5</Amount>
+  </ModOp>
+  <!-- Cannery-->
+  <ModOp Type="merge" GUID='1010295' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <Amount>5</Amount>
+  </ModOp>
+  <!-- Sewing Machine Factory-->
+  <ModOp Type="merge" GUID='1010284' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <Amount>5</Amount>
+  </ModOp>
+  <!-- Fur Dealer-->
+  <ModOp Type="merge" GUID='1010325' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <Amount>5</Amount>
+  </ModOp>
+  <!-- Spectacle Factory-->
+  <ModOp Type="merge" GUID='101250' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <Amount>5</Amount>
+  </ModOp>
+  <!-- Bicycle Factory-->
+  <ModOp Type="merge" GUID='1010323' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <Amount>5</Amount>
+  </ModOp>
+  <!-- Clockmakers-->
+  <ModOp Type="merge" GUID='1010324' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <Amount>5</Amount>
+  </ModOp>
+  <!-- Light Bulb Factory-->
+  <ModOp Type="merge" GUID='1010286' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <Amount>5</Amount>
+  </ModOp>
+  <!-- Champagne Cellar-->
+  <ModOp Type="merge" GUID='100659' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <Amount>5</Amount>
+  </ModOp>
+  <!-- Jewellers-->
+  <ModOp Type="merge" GUID='1010328' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <Amount>5</Amount>
+  </ModOp>
+  <!-- Gramophone Factory-->
+  <ModOp Type="merge" GUID='1010326' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <Amount>5</Amount>
+  </ModOp>
+  <!-- Cab Assembly Line-->
+  <ModOp Type="merge" GUID='1010303' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <Amount>5</Amount>
+  </ModOp>
+<!-- New World-->
+  <!-- Fried Plantain Kitchen-->
+  <ModOp Type="merge" GUID='101264' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <Amount>5</Amount>
+  </ModOp>
+  <!-- Poncho Darner-->
+  <ModOp Type="merge" GUID='101266' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <Amount>5</Amount>
+  </ModOp>
+  <!-- Rum Distillery-->
+  <ModOp Type="merge" GUID='1010340' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <Amount>5</Amount>
+  </ModOp>
+  <!-- Tortilla Maker-->
+  <ModOp Type="merge" GUID='101271' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <Amount>5</Amount>
+  </ModOp>
+  <!-- Coffee Roaster-->
+  <ModOp Type="merge" GUID='101252' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <Amount>5</Amount>
+  </ModOp>
+  <!-- Bombin Weaver-->
+  <ModOp Type="merge" GUID='101273' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <Amount>5</Amount>
+  </ModOp>
+  <!-- Cigar Factory-->
+  <ModOp Type="merge" GUID='1010342' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <Amount>5</Amount>
+  </ModOp>
+  <!-- Chocolate Factory-->
+  <ModOp Type="merge" GUID='1010341' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <Amount>5</Amount>
+  </ModOp>
+<!-- Arctic-->
+  <!-- Pemmican Cookhouse-->
+  <ModOp Type="merge" GUID='112668' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <Amount>5</Amount>
+  </ModOp>
+  <!-- Sleeping Bag Factory-->
+  <ModOp Type="merge" GUID='112675' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <Amount>5</Amount>
+  </ModOp>
+  <!-- Oil Lamp Factory-->
+  <ModOp Type="merge" GUID='112679' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <Amount>5</Amount>
+  </ModOp>
+  <!-- Parka Factory-->
+  <ModOp Type="merge" GUID='112672' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <Amount>5</Amount>
+  </ModOp>
+  <!-- Husky Sled Factory-->
+  <ModOp Type="merge" GUID='112680' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <Amount>5</Amount>
+  </ModOp>
+</ModOps>

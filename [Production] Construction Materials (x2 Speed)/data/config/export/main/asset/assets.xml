@@ -1,0 +1,42 @@
+<ModOps>
+  <!-- Sawmill-->
+  <ModOp Type="merge" GUID='100451' Path="/Values/FactoryBase">
+    <CycleTime>7</CycleTime>
+  </ModOp>
+  <!-- Brick Factory-->
+  <ModOp Type="merge" GUID='1010283' Path="/Values/FactoryBase">
+    <CycleTime>30</CycleTime>
+  </ModOp>
+  <!-- Sailmakers-->
+  <ModOp Type="add" GUID='1010288' Path="/Values/FactoryBase">
+    <CycleTime>15</CycleTime>
+  </ModOp>
+  <!-- Steelworks-->
+  <ModOp Type="merge" GUID='1010296' Path="/Values/FactoryBase">
+    <CycleTime>30</CycleTime>
+  </ModOp>
+  <!-- Weapon Factory-->
+  <ModOp Type="merge" GUID='1010299' Path="/Values/FactoryBase">
+    <CycleTime>30</CycleTime>
+  </ModOp>
+  <!-- Window Factory-->
+  <ModOp Type="merge" GUID='1010285' Path="/Values/FactoryBase">
+    <CycleTime>30</CycleTime>
+  </ModOp>
+  <!-- Concrete Factory-->
+  <ModOp Type="merge" GUID='1010280' Path="/Values/FactoryBase">
+    <CycleTime>30</CycleTime>
+  </ModOp>
+  <!-- Motor Assembly Line-->
+  <ModOp Type="merge" GUID='1010302' Path="/Values/FactoryBase">
+    <CycleTime>30</CycleTime>
+  </ModOp>
+  <!-- Heavy Weapons Factory-->
+  <ModOp Type="merge" GUID='1010301' Path="/Values/FactoryBase">
+    <CycleTime>60</CycleTime>
+  </ModOp>
+  <!-- Sawmill (Arctic)-->
+  <ModOp Type="merge" GUID='114704' Path="/Values/FactoryBase">
+    <CycleTime>7</CycleTime>
+  </ModOp>
+</ModOps>

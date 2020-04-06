@@ -1,0 +1,26 @@
+<ModOps>
+  <!-- Factory Transporter-->
+  <ModOp Type="add" GUID='1010104' Path="/Values/Transporter7">
+    <ProcessingTimes>
+      <LoadingTime>4</LoadingTime>
+      <UnloadingTime>4</UnloadingTime>
+    </ProcessingTimes>
+  </ModOp>
+  <!-- Electric Transporter-->
+  <ModOp Type="merge" GUID='120028' Path="/Values/Transporter7/ProcessingTimes">
+    <LoadingTime>8</LoadingTime>
+    <UnloadingTime>8</UnloadingTime>
+  </ModOp>
+  <!-- Warehouse Transporter-->
+  <ModOp Type="add" GUID='1010105' Path="/Values/Transporter7">
+    <ProcessingTimes>
+      <LoadingTime>4</LoadingTime>
+      <UnloadingTime>4</UnloadingTime>
+    </ProcessingTimes>
+  </ModOp>
+  <!-- Electric Warehouse Transporter-->
+  <ModOp Type="merge" GUID='120027' Path="/Values/Transporter7/ProcessingTimes">
+    <LoadingTime>8</LoadingTime>
+    <UnloadingTime>8</UnloadingTime>
+  </ModOp>
+</ModOps>

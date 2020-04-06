@@ -1,0 +1,54 @@
+<ModOps>
+  <!-- Potato Farm-->
+  <ModOp Type="merge" GUID='1010265' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <Amount>5</Amount>
+  </ModOp>
+  <!-- Grain Farm-->
+  <ModOp Type="merge" GUID='1010262' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <Amount>5</Amount>
+  </ModOp>
+  <!-- Hop Farm-->
+  <ModOp Type="merge" GUID='1010264' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <Amount>5</Amount>
+  </ModOp>
+  <!-- Red Pepper Farm-->
+  <ModOp Type="merge" GUID='100654' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <Amount>5</Amount>
+  </ModOp>
+  <!-- Vineyard-->
+  <ModOp Type="merge" GUID='100655' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <Amount>5</Amount>
+  </ModOp>
+  <!-- Plantain Plantation-->
+  <ModOp Type="merge" GUID='101263' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <Amount>5</Amount>
+  </ModOp>
+  <!-- Sugar Cane Plantation-->
+  <ModOp Type="merge" GUID='1010329' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <Amount>5</Amount>
+  </ModOp>
+  <!-- Corn Farm-->
+  <ModOp Type="merge" GUID='101270' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <Amount>5</Amount>
+  </ModOp>
+  <!-- Cotton Plantation-->
+  <ModOp Type="merge" GUID='1010331' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <Amount>5</Amount>
+  </ModOp>
+  <!-- Coffee Plantation-->
+  <ModOp Type="merge" GUID='101251' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <Amount>5</Amount>
+  </ModOp>
+  <!-- Caoutchouc Plantation-->
+  <ModOp Type="merge" GUID='1010333' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <Amount>5</Amount>
+  </ModOp>
+  <!-- Tobacco Plantation-->
+  <ModOp Type="merge" GUID='1010330' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <Amount>5</Amount>
+  </ModOp>
+  <!-- Cocoa Plantation-->
+  <ModOp Type="merge" GUID='1010332' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <Amount>5</Amount>
+  </ModOp>
+</ModOps>

@@ -1,0 +1,86 @@
+<ModOps>
+  <!-- Schooner-->
+  <ModOp Type="merge" GUID='100438' Path="/Values/Craftable">
+    <CraftingTime>45000</CraftingTime>
+  </ModOp>
+  <!-- Gunboat-->
+  <ModOp Type="merge" GUID='100437' Path="/Values/Craftable">
+    <CraftingTime>45000</CraftingTime>
+  </ModOp>
+  <!-- Frigate-->
+  <ModOp Type="merge" GUID='100439' Path="/Values/Craftable">
+    <CraftingTime>90000</CraftingTime>
+  </ModOp>
+  <!-- Clipper-->
+  <ModOp Type="merge" GUID='100441' Path="/Values/Craftable">
+    <CraftingTime>90000</CraftingTime>
+  </ModOp>
+  <!-- Ship of the Line-->
+  <ModOp Type="merge" GUID='100440' Path="/Values/Craftable">
+    <CraftingTime>180000</CraftingTime>
+  </ModOp>
+  <!-- Cargo Ship-->
+  <ModOp Type="merge" GUID='1010062' Path="/Values/Craftable">
+    <CraftingTime>135000</CraftingTime>
+  </ModOp>
+  <!-- Battle Cruiser-->
+  <ModOp Type="merge" GUID='100442' Path="/Values/Craftable">
+    <CraftingTime>225000</CraftingTime>
+  </ModOp>
+  <!-- Monitor-->
+  <ModOp Type="merge" GUID='100443' Path="/Values/Craftable">
+    <CraftingTime>180000</CraftingTime>
+  </ModOp>
+  <!-- Oil Tanker-->
+  <ModOp Type="merge" GUID='100853' Path="/Values/Craftable">
+    <CraftingTime>135000</CraftingTime>
+  </ModOp>
+  <!-- Extravaganza Steamer-->
+  <ModOp Type="merge" GUID='102455' Path="/Values/Craftable">
+    <CraftingTime>135000</CraftingTime>
+  </ModOp>
+  <!-- Pirate Gunboat-->
+  <ModOp Type="add" GUID='102420' Path="/Values/Craftable">
+    <CraftingTime>45000</CraftingTime>
+  </ModOp>
+  <!-- Pirate Frigate-->
+  <ModOp Type="add" GUID='102421' Path="/Values/Craftable">
+    <CraftingTime>90000</CraftingTime>
+  </ModOp>
+  <!-- Pirate Ship of the Line-->
+  <ModOp Type="add" GUID='102419' Path="/Values/Craftable">
+    <CraftingTime>180000</CraftingTime>
+  </ModOp>
+  <!-- Royal Ship of the Line-->
+  <ModOp Type="add" GUID='102427' Path="/Values/Craftable">
+    <CraftingTime>180000</CraftingTime>
+  </ModOp>
+  <!-- Command Ship-->
+  <ModOp Type="add" GUID='101121' Path="/Values/Craftable">
+    <CraftingTime>180000</CraftingTime>
+  </ModOp>
+  <!-- Imperial Command Ship-->
+  <ModOp Type="add" GUID='102437' Path="/Values/Craftable">
+    <CraftingTime>180000</CraftingTime>
+  </ModOp>
+  <!-- Pirate Monitor-->
+  <ModOp Type="add" GUID='102422' Path="/Values/Craftable">
+    <CraftingTime>180000</CraftingTime>
+  </ModOp>
+  <!-- Pyrphorian Monitor-->
+  <ModOp Type="add" GUID='102423' Path="/Values/Craftable">
+    <CraftingTime>180000</CraftingTime>
+  </ModOp>
+  <!-- Pyrphorian Battle Cruiser-->
+  <ModOp Type="merge" GUID='102425' Path="/Values/Craftable">
+    <CraftingTime>225000</CraftingTime>
+  </ModOp>
+  <!-- Pyrphorian Warship-->
+  <ModOp Type="merge" GUID='102428' Path="/Values/Craftable">
+    <CraftingTime>180000</CraftingTime>
+  </ModOp>
+  <!-- Airship-->
+  <ModOp Type="add" GUID='114166' Path="/Values/Craftable">
+    <CraftingTime>225000</CraftingTime>
+  </ModOp>
+</ModOps>

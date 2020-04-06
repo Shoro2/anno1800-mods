@@ -1,0 +1,54 @@
+<ModOps>
+  <!-- Potato Farm-->
+  <ModOp Type="merge" GUID='1010265' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <StorageAmount>16</StorageAmount>
+  </ModOp>
+  <!-- Grain Farm-->
+  <ModOp Type="merge" GUID='1010262' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <StorageAmount>8</StorageAmount>
+  </ModOp>
+  <!-- Hop Farm-->
+  <ModOp Type="merge" GUID='1010264' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <StorageAmount>8</StorageAmount>
+  </ModOp>
+  <!-- Red Pepper Farm-->
+  <ModOp Type="merge" GUID='100654' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <StorageAmount>8</StorageAmount>
+  </ModOp>
+  <!-- Vineyard-->
+  <ModOp Type="merge" GUID='100655' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <StorageAmount>8</StorageAmount>
+  </ModOp>
+  <!-- Plantain Plantation-->
+  <ModOp Type="merge" GUID='101263' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <StorageAmount>16</StorageAmount>
+  </ModOp>
+  <!-- Sugar Cane Plantation-->
+  <ModOp Type="merge" GUID='1010329' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <StorageAmount>16</StorageAmount>
+  </ModOp>
+  <!-- Corn Farm-->
+  <ModOp Type="merge" GUID='101270' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <StorageAmount>8</StorageAmount>
+  </ModOp>
+  <!-- Cotton Plantation-->
+  <ModOp Type="merge" GUID='1010331' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <StorageAmount>8</StorageAmount>
+  </ModOp>
+  <!-- Coffee Plantation-->
+  <ModOp Type="merge" GUID='101251' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <StorageAmount>8</StorageAmount>
+  </ModOp>
+  <!-- Caoutchouc Plantation-->
+  <ModOp Type="merge" GUID='1010333' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <StorageAmount>8</StorageAmount>
+  </ModOp>
+  <!-- Tobacco Plantation-->
+  <ModOp Type="merge" GUID='1010330' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <StorageAmount>8</StorageAmount>
+  </ModOp>
+  <!-- Cocoa Plantation-->
+  <ModOp Type="merge" GUID='1010332' Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <StorageAmount>8</StorageAmount>
+  </ModOp>
+</ModOps>

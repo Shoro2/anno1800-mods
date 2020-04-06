@@ -1,0 +1,30 @@
+<ModOps>
+  <!-- Police Station-->
+  <ModOp Type="merge" GUID="1010462" Path="/Values/IncidentInfluencer/Influence/Riot">
+    <Distance>120</Distance>
+  </ModOp>
+  <!-- Fire Department: Fire-->
+  <ModOp Type="merge" GUID="1010463" Path="/Values/IncidentInfluencer/Influence/Fire">
+    <Distance>120</Distance>
+  </ModOp>
+  <!-- Fire Department: Explosion-->
+	<ModOp Type="merge" GUID="1010463" Path="/Values/IncidentInfluencer/Influence/Explosion">
+    <Distance>120</Distance>
+  </ModOp>
+  <!-- Hospital-->
+	<ModOp Type="merge" GUID="1010464" Path="/Values/IncidentInfluencer/Influence/Illness">
+    <Distance>120</Distance>
+  </ModOp>
+  <!-- Ranger Station-->
+	<ModOp Type="merge" GUID="112669" Path="/Values/IncidentInfluencer/Influence">
+    <Fire>
+      <Distance>60</Distance>
+    </Fire>
+    <ArcticIllness>
+      <Distance>60</Distance>
+    </ArcticIllness>
+    <Explosion>
+      <Distance>60</Distance>
+    </Explosion>
+  </ModOp>
+</ModOps>

@@ -1,0 +1,106 @@
+<ModOps>
+  <!-- Potato Farm-->
+  <ModOp Type="merge" GUID='1010265' Path="/Values/ModuleOwner">
+    <ModuleLimits>
+      <Main>
+        <Limit>20</Limit>
+      </Main>
+    </ModuleLimits>
+  </ModOp>
+  <!-- Grain Farm-->
+  <ModOp Type="merge" GUID='1010262' Path="/Values/ModuleOwner">
+    <ModuleLimits>
+      <Main>
+        <Limit>20</Limit>
+      </Main>
+    </ModuleLimits>
+  </ModOp>
+  <!-- Hop Farm-->
+  <ModOp Type="merge" GUID='1010264' Path="/Values/ModuleOwner">
+    <ModuleLimits>
+      <Main>
+        <Limit>20</Limit>
+      </Main>
+    </ModuleLimits>
+  </ModOp>
+  <!-- Red Pepper Farm-->
+  <ModOp Type="merge" GUID='100654' Path="/Values/ModuleOwner">
+    <ModuleLimits>
+      <Main>
+        <Limit>20</Limit>
+      </Main>
+    </ModuleLimits>
+  </ModOp>
+  <!-- Vineyard-->
+  <ModOp Type="merge" GUID='100655' Path="/Values/ModuleOwner">
+    <ModuleLimits>
+      <Main>
+        <Limit>20</Limit>
+      </Main>
+    </ModuleLimits>
+  </ModOp>
+  <!-- Plantain Plantation-->
+  <ModOp Type="merge" GUID='101263' Path="/Values/ModuleOwner">
+    <ModuleLimits>
+      <Main>
+        <Limit>20</Limit>
+      </Main>
+    </ModuleLimits>
+  </ModOp>
+  <!-- Sugar Cane Plantation-->
+  <ModOp Type="merge" GUID='1010329' Path="/Values/ModuleOwner">
+    <ModuleLimits>
+      <Main>
+        <Limit>20</Limit>
+      </Main>
+    </ModuleLimits>
+  </ModOp>
+  <!-- Corn Farm-->
+  <ModOp Type="merge" GUID='101270' Path="/Values/ModuleOwner">
+    <ModuleLimits>
+      <Main>
+        <Limit>20</Limit>
+      </Main>
+    </ModuleLimits>
+  </ModOp>
+  <!-- Cotton Plantation-->
+  <ModOp Type="merge" GUID='1010331' Path="/Values/ModuleOwner">
+    <ModuleLimits>
+      <Main>
+        <Limit>20</Limit>
+      </Main>
+    </ModuleLimits>
+  </ModOp>
+  <!-- Coffee Plantation-->
+  <ModOp Type="merge" GUID='101251' Path="/Values/ModuleOwner">
+    <ModuleLimits>
+      <Main>
+        <Limit>20</Limit>
+      </Main>
+    </ModuleLimits>
+  </ModOp>
+  <!-- Caoutchouc Plantation-->
+  <ModOp Type="merge" GUID='1010333' Path="/Values/ModuleOwner">
+    <ModuleLimits>
+      <Main>
+        <Limit>20</Limit>
+      </Main>
+    </ModuleLimits>
+  </ModOp>
+  <!-- Tobacco Plantation-->
+  <ModOp Type="merge" GUID='1010330' Path="/Values/ModuleOwner">
+    <ModuleLimits>
+      <Main>
+        <Limit>20</Limit>
+      </Main>
+    </ModuleLimits>
+  </ModOp>
+  <!-- Cocoa Plantation-->
+  <ModOp Type="merge" GUID='1010332' Path="/Values/ModuleOwner">
+    <ModuleLimits>
+      <Main>
+        <Limit>20</Limit>
+      </Main>
+    </ModuleLimits>
+  </ModOp>
+</ModOps>

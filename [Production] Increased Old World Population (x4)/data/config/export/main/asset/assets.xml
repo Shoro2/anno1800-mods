@@ -1,0 +1,312 @@
+<ModOps>
+  <!-- Farmer Residence-->
+  <ModOp Type="merge" GUID='1010343' Path="/Values/Residence7">
+    <ResidentMax>40</ResidentMax>
+  </ModOp>
+  <ModOp Type="merge" GUID='15000000' Path="/Values/PopulationLevel7/PopulationInputs">
+    <!-- Marketplace-->
+    <Item>
+      <Product>120020</Product>
+      <SupplyWeight>20</SupplyWeight>
+    </Item>
+    <!-- Fish-->
+    <Item>
+      <Product>1010200</Product>
+      <SupplyWeight>12</SupplyWeight>
+    </Item>
+    <!-- Schnapps-->
+    <Item>
+      <Product>1010216</Product>
+    </Item>
+    <!-- Work Clothes-->
+    <Item>
+      <Product>1010237</Product>
+      <SupplyWeight>8</SupplyWeight>
+    </Item>
+    <!-- Pub-->
+    <Item>
+      <Product>1010349</Product>
+    </Item>
+  </ModOp>
+  <!-- Worker Residence-->
+  <ModOp Type="merge" GUID='1010344' Path="/Values/Residence7">
+    <ResidentMax>80</ResidentMax>
+  </ModOp>
+  <ModOp Type="merge" GUID='15000001' Path="/Values/PopulationLevel7/PopulationInputs">
+    <!-- Marketplace-->
+    <Item>
+      <Product>120020</Product>
+      <SupplyWeight>20</SupplyWeight>
+    </Item>
+    <!-- Fish-->
+    <Item>
+      <Product>1010200</Product>
+      <SupplyWeight>12</SupplyWeight>
+    </Item>
+    <!-- Schnapps-->
+    <Item>
+      <Product>1010216</Product>
+    </Item>
+    <!-- Work Clothes-->
+    <Item>
+      <Product>1010237</Product>
+      <SupplyWeight>8</SupplyWeight>
+    </Item>
+    <!-- Pub-->
+    <Item>
+      <Product>1010349</Product>
+    </Item>
+    <!-- Sausages-->
+    <Item>
+      <Product>1010238</Product>
+      <SupplyWeight>12</SupplyWeight>
+    </Item>
+    <!-- Bread-->
+    <Item>
+      <Product>1010213</Product>
+      <SupplyWeight>12</SupplyWeight>
+    </Item>
+    <!-- Church-->
+    <Item>
+      <Product>1010350</Product>
+    </Item>
+    <!-- Soap-->
+    <Item>
+      <Product>1010203</Product>
+      <SupplyWeight>8</SupplyWeight>
+    </Item>
+    <!-- Beer-->
+    <Item>
+      <Product>1010214</Product>
+    </Item>
+    <!-- School-->
+    <Item>
+      <Product>1010351</Product>
+      <SupplyWeight>8</SupplyWeight>
+    </Item>
+  </ModOp>
+  <!-- Artisan Residence -->
+  <ModOp Type="merge" GUID='1010345' Path="/Values/Residence7">
+    <ResidentMax>120</ResidentMax>
+  </ModOp>
+  <ModOp Type="merge" GUID='15000002' Path="/Values/PopulationLevel7/PopulationInputs">
+    <!-- Sausages-->
+    <Item>
+      <Product>1010238</Product>
+      <SupplyWeight>48</SupplyWeight>
+    </Item>
+    <!-- Bread-->
+    <Item>
+      <Product>1010213</Product>
+      <SupplyWeight>24</SupplyWeight>
+    </Item>
+    <!-- TODO-->
+    <Item>
+      <Product>1010350</Product>
+    </Item>
+    <!-- TODO-->
+    <Item>
+      <Product>1010203</Product>
+      <SupplyWeight>16</SupplyWeight>
+    </Item>
+    <!-- TODO-->
+    <Item>
+      <Product>1010214</Product>
+    </Item>
+    <!-- School-->
+    <Item>
+      <Product>1010351</Product>
+      <SupplyWeight>16</SupplyWeight>
+    </Item>
+    <!-- TODO-->
+    <Item>
+      <Product>1010217</Product>
+      <SupplyWeight>16</SupplyWeight>
+    </Item>
+    <!-- TODO-->
+    <Item>
+      <Product>1010206</Product>
+      <SupplyWeight>8</SupplyWeight>
+    </Item>
+    <!-- TODO-->
+    <Item>
+      <Product>1010352</Product>
+    </Item>
+    <!-- TODO-->
+    <Item>
+      <Product>1010257</Product>
+    </Item>
+    <!-- TODO-->
+    <Item>
+      <Product>1010247</Product>
+      <SupplyWeight>8</SupplyWeight>
+    </Item>
+    <!-- TODO-->
+    <Item>
+      <Product>1010353</Product>
+      <SupplyWeight>8</SupplyWeight>
+    </Item>
+  </ModOp>
+  <!-- Engineer Residence-->
+  <ModOp Type="merge" GUID='1010346' Path="/Values/Residence7">
+    <ResidentMax>160</ResidentMax>
+  </ModOp>
+  <ModOp Type="merge" GUID='15000003' Path="/Values/PopulationLevel7/PopulationInputs">
+    <!-- TODO-->
+    <Item>
+      <Product>1010217</Product>
+      <SupplyWeight>48</SupplyWeight>
+    </Item>
+    <!-- TODO-->
+    <Item>
+      <Product>1010206</Product>
+      <SupplyWeight>24</SupplyWeight>
+    </Item>
+    <!-- TODO-->
+    <Item>
+      <Product>1010352</Product>
+    </Item>
+    <!-- TODO-->
+    <Item>
+      <Product>1010257</Product>
+    </Item>
+    <!-- TODO-->
+    <Item>
+      <Product>1010247</Product>
+      <SupplyWeight>24</SupplyWeight>
+    </Item>
+    <!-- TODO-->
+    <Item>
+      <Product>1010353</Product>
+      <SupplyWeight>24</SupplyWeight>
+    </Item>
+    <!-- TODO-->
+    <Item>
+      <Product>120030</Product>
+      <SupplyWeight>16</SupplyWeight>
+    </Item>
+    <!-- TODO-->
+    <Item>
+      <Product>1010245</Product>
+    </Item>
+    <!-- TODO-->
+    <Item>
+      <Product>120032</Product>
+      <SupplyWeight>8</SupplyWeight>
+    </Item>
+    <!-- TODO-->
+    <Item>
+      <Product>1010246</Product>
+    </Item>
+    <!-- TODO-->
+    <Item>
+      <Product>1010354</Product>
+      <SupplyWeight>8</SupplyWeight>
+    </Item>
+    <!-- TODO-->
+    <Item>
+      <Product>1010208</Product>
+      <SupplyWeight>8</SupplyWeight>
+    </Item>
+    <!-- TODO-->
+    <Item>
+      <Product>1010356</Product>
+    </Item>
+  </ModOp>
+  <!-- Investor Residence-->
+  <ModOp Type="merge" GUID='1010347' Path="/Values/Residence7">
+    <ResidentMax>200</ResidentMax>
+  </ModOp>
+  <ModOp Type="merge" GUID='15000004' Path="/Values/PopulationLevel7/PopulationInputs">
+    <!-- TODO-->
+    <Item>
+      <Product>120030</Product>
+      <SupplyWeight>64</SupplyWeight>
+    </Item>
+    <!-- TODO-->
+    <Item>
+      <Product>1010245</Product>
+    </Item>
+    <!-- TODO-->
+    <Item>
+      <Product>120032</Product>
+      <SupplyWeight>32</SupplyWeight>
+    </Item>
+    <!-- TODO-->
+    <Item>
+      <Product>1010246</Product>
+    </Item>
+    <!-- TODO-->
+    <Item>
+      <Product>1010354</Product>
+      <SupplyWeight>32</SupplyWeight>
+    </Item>
+    <!-- TODO-->
+    <Item>
+      <Product>1010208</Product>
+      <SupplyWeight>32</SupplyWeight>
+    </Item>
+    <!-- TODO-->
+    <Item>
+      <Product>1010356</Product>
+    </Item>
+    <!-- TODO-->
+    <Item>
+      <Product>120016</Product>
+      <SupplyWeight>8</SupplyWeight>
+    </Item>
+    <!-- TODO-->
+    <Item>
+      <Product>1010259</Product>
+      <SupplyWeight>8</SupplyWeight>
+    </Item>
+    <!-- TODO-->
+    <Item>
+      <Product>1010355</Product>
+    </Item>
+    <!-- TODO-->
+    <Item>
+      <Product>1010258</Product>
+      <SupplyWeight>8</SupplyWeight>
+    </Item>
+    <!-- TODO-->
+    <Item>
+      <Product>1010250</Product>
+    </Item>
+    <!-- TODO-->
+    <Item>
+      <Product>1010248</Product>
+    </Item>
+    <!-- TODO-->
+    <Item>
+      <Product>1010225</Product>
+      <SupplyWeight>16</SupplyWeight>
+    </Item>
+  </ModOp>
+  <!-- Move In Rate-->
+  <!-- Farmers-->
+  <ModOp Type="merge" GUID='15000000' Path="/Values/PopulationLevel7/MoveInOut">
+    <MoveInInterval>8</MoveInInterval>
+    <MoveOutInterval>30</MoveOutInterval>
+  </ModOp>
+  <!-- Workers-->
+  <ModOp Type="merge" GUID='15000001' Path="/Values/PopulationLevel7/MoveInOut">
+    <MoveInInterval>8</MoveInInterval>
+    <MoveOutInterval>30</MoveOutInterval>
+  </ModOp>
+  <!-- Artisans-->
+  <ModOp Type="merge" GUID='15000002' Path="/Values/PopulationLevel7/MoveInOut">
+    <MoveInInterval>8</MoveInInterval>
+    <MoveOutInterval>30</MoveOutInterval>
+  </ModOp>
+  <!-- Engineers-->
+  <ModOp Type="merge" GUID='15000003' Path="/Values/PopulationLevel7/MoveInOut">
+    <MoveInInterval>8</MoveInInterval>
+    <MoveOutInterval>30</MoveOutInterval>
+  </ModOp>
+  <!-- Investors-->
+  <ModOp Type="merge" GUID='15000004' Path="/Values/PopulationLevel7/MoveInOut">
+    <MoveInInterval>8</MoveInInterval>
+    <MoveOutInterval>30</MoveOutInterval>
+  </ModOp>
+</ModOps>

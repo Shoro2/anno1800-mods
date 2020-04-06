@@ -1,0 +1,54 @@
+<ModOps>
+  <!-- Potato Farm-->
+  <ModOp Type="add" GUID='1010265' Path="/Values/FactoryBase">
+    <CycleTime>15</CycleTime>
+  </ModOp>
+  <!-- Grain Farm-->
+  <ModOp Type="merge" GUID='1010262' Path="/Values/FactoryBase">
+    <CycleTime>30</CycleTime>
+  </ModOp>
+  <!-- Hop Farm-->
+  <ModOp Type="merge" GUID='1010264' Path="/Values/FactoryBase">
+    <CycleTime>30</CycleTime>
+  </ModOp>
+  <!-- Red Pepper Farm-->
+  <ModOp Type="merge" GUID='100654' Path="/Values/FactoryBase">
+    <CycleTime>60</CycleTime>
+  </ModOp>
+  <!-- Vineyard-->
+  <ModOp Type="merge" GUID='100655' Path="/Values/FactoryBase">
+    <CycleTime>60</CycleTime>
+  </ModOp>
+  <!-- Plantain Plantation-->
+  <ModOp Type="add" GUID='101263' Path="/Values/FactoryBase">
+    <CycleTime>15</CycleTime>
+  </ModOp>
+  <!-- Sugar Cane Plantation-->
+  <ModOp Type="add" GUID='1010329' Path="/Values/FactoryBase">
+    <CycleTime>15</CycleTime>
+  </ModOp>
+  <!-- Corn Farm-->
+  <ModOp Type="merge" GUID='101270' Path="/Values/FactoryBase">
+    <CycleTime>30</CycleTime>
+  </ModOp>
+  <!-- Cotton Plantation-->
+  <ModOp Type="merge" GUID='1010331' Path="/Values/FactoryBase">
+    <CycleTime>30</CycleTime>
+  </ModOp>
+  <!-- Coffee Plantation-->
+  <ModOp Type="merge" GUID='101251' Path="/Values/FactoryBase">
+    <CycleTime>30</CycleTime>
+  </ModOp>
+  <!-- Caoutchouc Plantation-->
+  <ModOp Type="merge" GUID='1010333' Path="/Values/FactoryBase">
+    <CycleTime>30</CycleTime>
+  </ModOp>
+  <!-- Tobacco Plantation-->
+  <ModOp Type="merge" GUID='1010330' Path="/Values/FactoryBase">
+    <CycleTime>60</CycleTime>
+  </ModOp>
+  <!-- Cocoa Plantation-->
+  <ModOp Type="merge" GUID='1010332' Path="/Values/FactoryBase">
+    <CycleTime>30</CycleTime>
+  </ModOp>
+</ModOps>

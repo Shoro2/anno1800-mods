@@ -1,0 +1,103 @@
+<ModOps>
+  <!-- Jornalero Residence-->
+  <ModOp Type="add" GUID='101254' Path="/Values/Residence7">
+    <ResidentMax>40</ResidentMax>
+  </ModOp>
+  <ModOp Type="merge" GUID='15000005' Path="/Values/PopulationLevel7/PopulationInputs">
+    <!-- Marketplace-->
+    <Item>
+      <Product>120020</Product>
+      <SupplyWeight>20</SupplyWeight>
+    </Item>
+    <!-- Fried Plantains-->
+    <Item>
+      <Product>120033</Product>
+      <SupplyWeight>12</SupplyWeight>
+    </Item>
+    <!-- Rum-->
+    <Item>
+      <Product>1010257</Product>
+    </Item>
+    <!-- Ponchos-->
+    <Item>
+      <Product>120043</Product>
+      <SupplyWeight>8</SupplyWeight>
+    </Item>
+    <!-- Chapel-->
+    <Item>
+      <Product>120050</Product>
+    </Item>
+  </ModOp>
+  <!-- Obrero Residence-->
+  <ModOp Type="add" GUID='101255' Path="/Values/Residence7">
+    <ResidentMax>80</ResidentMax>
+  </ModOp>
+  <ModOp Type="merge" GUID='15000006' Path="/Values/PopulationLevel7/PopulationInputs">
+    <!-- Marketplace-->
+    <Item>
+      <Product>120020</Product>
+      <SupplyWeight>20</SupplyWeight>
+    </Item>
+    <!-- Fried Plantains-->
+    <Item>
+      <Product>120033</Product>
+      <SupplyWeight>12</SupplyWeight>
+    </Item>
+    <!-- Rum-->
+    <Item>
+      <Product>1010257</Product>
+    </Item>
+    <!-- Ponchos-->
+    <Item>
+      <Product>120043</Product>
+      <SupplyWeight>8</SupplyWeight>
+    </Item>
+    <!-- Chapel-->
+    <Item>
+      <Product>120050</Product>
+    </Item>
+    <!-- Tortillas-->
+    <Item>
+      <Product>120035</Product>
+      <SupplyWeight>16</SupplyWeight>
+    </Item>
+    <!-- Coffee-->
+    <Item>
+      <Product>120032</Product>
+      <SupplyWeight>8</SupplyWeight>
+    </Item>
+    <!-- Boxing Arena-->
+    <Item>
+      <Product>1010348</Product>
+    </Item>
+    <!-- Bombins-->
+    <Item>
+      <Product>120037</Product>
+      <SupplyWeight>8</SupplyWeight>
+    </Item>
+    <!-- Beer-->
+    <Item>
+      <Product>1010214</Product>
+    </Item>
+    <!-- Cigars-->
+    <Item>
+      <Product>1010259</Product>
+    </Item>
+    <!-- Sewing Machines-->
+    <Item>
+      <Product>1010206</Product>
+      <SupplyWeight>8</SupplyWeight>
+    </Item>
+  </ModOp>
+  <!-- Move In Rate-->
+  <!-- Jornaleros-->
+  <ModOp Type="merge" GUID='15000005' Path="/Values/PopulationLevel7/MoveInOut">
+    <MoveInInterval>8</MoveInInterval>
+    <MoveOutInterval>30</MoveOutInterval>
+  </ModOp>
+  <!-- Obreras-->
+  <ModOp Type="merge" GUID='15000006' Path="/Values/PopulationLevel7/MoveInOut">
+    <MoveInInterval>8</MoveInInterval>
+    <MoveOutInterval>30</MoveOutInterval>
+  </ModOp>
+</ModOps>
